@@ -1,68 +1,88 @@
-# 👋 Hey, I'm **Mahi**
+# 👋 Hey, I'm Mahesh!
 
-### 🚀 Future Data Scientist | *Turning Data into Insights*
+### 🚀 Aspiring Data Scientist | Turning Data into Insights
 
----
+I'm a B.Tech Data Science student passionate about **data analytics, visualization, and AI**. I enjoy exploring datasets, building practical projects, and discovering how data can solve real-world problems.
 
-## 🔥 About Me
-
-- 🎓 **B.Tech – Data Science Branch**
-- 📊 Aspiring **Data Scientist** with a strong interest in analytics & AI
-- 🧠 Currently building fundamentals in **data analysis & visualization**
-- 🛠️ Hands-on learner — learning by **doing, breaking, and improving**
-- 🚀 Curious about how data drives **real-world decisions**
+- 🎓 B.Tech in Data Science
+- 📊 Exploring Data Analytics & Machine Learning
+- 🐍 Working with Python and data science libraries
+- 📈 Building insights through dashboards and visualizations
+- 🌱 Learning by building, experimenting, and improving
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+**Languages & Data Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+**Data Visualization & BI**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🚧 Currently Building
+## 🎯 What I'm Working On
 
-> No projects yet — but not for long 👀
-
-- 📈 Data analysis using **Pandas & NumPy**
-- 📊 Visual storytelling with **Matplotlib & Seaborn**
-- 📉 Interactive dashboards using **Power BI / Tableau**
-- 🧩 Improving **Git & GitHub workflows**
-
-*Projects coming soon — stay tuned 🚀*
+- 📊 Data cleaning, analysis, and exploration with Pandas and NumPy
+- 📉 Data visualization using Matplotlib and Seaborn
+- 📈 Creating interactive dashboards with Power BI
+- 🤖 Strengthening my foundations in statistics and machine learning
+- 💻 Improving problem-solving and GitHub workflows
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Projects & Repositories
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahi11313&show_icons=true&hide_border=true)
+Explore my projects, experiments, and development work.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi11313&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahi11313&hide_border=true)
+🔗 **[View All My Repositories](https://github.com/maheshgorli?tab=repositories)**
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Statistics
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mahi11313&theme=flat&row=1&margin-w=10&no-frame=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheshgorli&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" alt="Mahesh's GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshgorli&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maheshgorli&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-gorli-314b89344)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahi_11130?igsh=MTY1dGp4N2JsenZoZw==)
+<p align="left">
+  <a href="https://github.com/maheshgorli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahesh-gorli-314b89344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mahi_11130/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-✨ *Learning today. Building tomorrow. Data-driven always.* ✨
-   
+<p align="center">
+  <i>✨ Learning today. Building tomorrow. Making data meaningful. ✨</i>
+</p>
