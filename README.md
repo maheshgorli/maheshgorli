@@ -2,11 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Development+Engineer+%F0%9F%9A%80;Exploring+AI+Engineering+%F0%9F%A4%96;Data+Science+%26+Machine+Learning+%F0%9F%93%8A;Building+Full-Stack+Applications+%F0%9F%92%BB" alt="Typing animation"/>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=maheshgorli&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Development+Engineer;Exploring+AI+Engineering;Data+Science+%26+Machine+Learning;Building+Full-Stack+Applications" alt="Typing animation"/>
 
   <br/><br/>
 
@@ -20,14 +16,14 @@
 
 ## 🧠 About Me
 
-I'm a **B.Tech Data Science student** passionate about software development, AI engineering, and data-driven problem solving.
+I'm a **B.Tech Data Science student** interested in software engineering, AI engineering, and data-driven problem solving.
 
 - 💻 Exploring Software Development Engineering and full-stack development.
-- 🤖 Interested in AI, machine learning, and intelligent applications.
+- 🤖 Interested in artificial intelligence, machine learning, and intelligent applications.
 - 📊 Exploring data analytics, visualization, and predictive modeling.
-- 🌐 Building modern web applications with frontend and backend technologies.
-- 🛠️ Learning through hands-on projects, experimentation, and problem-solving.
-- 🚀 Focused on creating practical solutions that combine software and AI.
+- 🌐 Building web applications with modern frontend and backend technologies.
+- 🛠️ Learning through hands-on projects and practical experimentation.
+- 🚀 Working toward building useful, reliable, and intelligent software.
 
 > *Building software. Exploring intelligence. Making data meaningful.*
 
@@ -50,7 +46,6 @@ I'm a **B.Tech Data Science student** passionate about software development, AI 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
@@ -107,13 +102,11 @@ Explore my repositories to discover my software development, AI, and data scienc
 
 <div align="center">
 
-  <a href="https://github.com/maheshgorli?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
+  [![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshgorli?tab=repositories)
 
 </div>
 
-> 📌 Individual project cards can be added here with descriptions, tech stacks, screenshots, and live demos as the repositories are finalized.
+> 📌 Individual project cards can be added as projects are finalized, with descriptions, technologies, screenshots, and live demos.
 
 ---
 
@@ -138,7 +131,7 @@ Explore my repositories to discover my software development, AI, and data scienc
 <div align="center">
 
   <a href="https://github.com/maheshgorli">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshgorli&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Mahesh's%20Contribution%20Graph" width="100%" alt="GitHub contribution graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshgorli&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Mahesh%27s%20Contribution%20Graph" width="100%" alt="GitHub contribution graph"/>
   </a>
 
 </div>
@@ -147,12 +140,12 @@ Explore my repositories to discover my software development, AI, and data scienc
 
 ## 🏆 Achievements & Growth
 
-- 🌱 Continuously developing skills across software engineering, AI, and data science.
+- 🌱 Developing skills across software engineering, AI, and data science.
 - 💻 Applying technical concepts through hands-on projects.
-- 📚 Learning new tools, frameworks, and development practices.
-- 🎯 Working toward building reliable, useful, and intelligent applications.
+- 📚 Exploring new tools, frameworks, and development practices.
+- 🎯 Working toward building useful, reliable, and intelligent applications.
 
-*This section can be expanded with verified certifications, awards, open-source contributions, and milestones.*
+*This section can be expanded with verified certifications, awards, and open-source contributions.*
 
 ---
 
@@ -160,7 +153,7 @@ Explore my repositories to discover my software development, AI, and data scienc
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/github-snake-dark.svg" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
 
   <br/>
 
