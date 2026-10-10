@@ -130,17 +130,9 @@ Explore my repositories to discover my software development, AI engineering, and
 
 <div align="center">
 
-  **Want to see my live contribution calendar?**
+  <img src="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/activity-graph.svg" width="100%" alt="Mahesh's GitHub contribution activity graph for the last 12 months" />
 
-  <br/>
-
-  <a href="https://github.com/maheshgorli">
-    <img src="https://img.shields.io/badge/VIEW_GITHUB_CONTRIBUTIONS-161B22?style=for-the-badge&logo=github&logoColor=A7F3D0" alt="View GitHub contributions" />
-  </a>
-
-  <br/>
-
-  <sub>Opens GitHub's native contribution calendar on my profile, avoiding a separate activity-graph image service.</sub>
+  <sub>Daily contributions over the last 12 months · Generated as an SVG by GitHub Actions.</sub>
 
 </div>
 
