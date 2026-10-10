@@ -130,11 +130,15 @@ Explore my repositories to discover my software development, AI engineering, and
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/activity-graph.svg" width="100%" alt="Mahesh's GitHub contribution activity graph for the last 12 months" />
-
-  <sub>Daily contributions over the last 12 months · Generated as an SVG by GitHub Actions.</sub>
+  <img
+    src="https://fabianocouto-activity-graph.vercel.app/graph/?username=maheshgorli&theme=github-compact&area=true&hide_border=true&color=A7F3D0&line=34D399&point=ECFDF5"
+    alt="Mahesh's GitHub Activity Graph"
+    width="100%"
+  />
 
 </div>
+
+
 
 ---
 
