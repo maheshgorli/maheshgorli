@@ -149,16 +149,15 @@ Explore my repositories to discover my software development, AI, and data scienc
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
-
-  <br/>
-
-  *Every contribution is a step forward. Keep building!*
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/maheshgorli/maheshgorli/output/github-snake.svg" alt="GitHub contribution snake"/>
+  </picture>
 </div>
 
 ---
